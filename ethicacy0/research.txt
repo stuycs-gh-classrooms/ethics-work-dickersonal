@@ -1,19 +1,92 @@
 Ethics of Social Media and Adolescent Mental Health - CS Ethics
-For:
-https://www.hsph.harvard.edu/news/features/social-media-positive-mental-health/
-https://etherapypoc.com/how-social-media-affects-mental-health-positively/
+Possible Slide Themes:
+1.Social Media & Teens Mental Health Problems Breakthrough presentation template
+2.Another Day Social Media | Google Slides & PowerPoint Template
+3.The Social Media Anniversary | Google Slides & PowerPoint
+
+Beneficial Impact of Social Media on Adolescent Mental Health:
+Social media use can be positive for mental health and well-being
+https://bura.brunel.ac.uk/handle/2438/27435
+	(https://bura.brunel.ac.uk/bitstream/2438/27435/1/FullText.pdf)
+Online Social Networking and Mental Health - PMC
+
+From:Here’s How Social Media Affects Your Mental Health | McLean Hospital
+“The idea of a potential future reward keeps the machines in use. The same goes for social media sites. One does not know how many likes a picture will get, who will ‘like’ the picture, and when the picture will receive likes. The unknown outcome and the possibility of a desired outcome can keep users engaged with the sites.” Jacqueline Sperling, PhD, a psychologist at McLean Hospital who works with youth who experience anxiety disorders, about Instagram’s recent restriction.
+
+From:Social media’s impact on our mental health and tips to use it safely
+Ways to Safely use Social Media
+A positive relationship with social media is personal to you. A great way to improve your relationship with social media and help decrease the negative effects is to decrease your daily screen time. Tips to decrease screen time include:
+Set time limits on social media apps within your phone settings
+Designate specific hours for social media usage
+Look through your friends and followers list and unfriend people whose accounts make you feel bad about yourself
+From: Digital Media Use and Adolescents' Mental Health During the Covid-19 Pandemic: A Systematic Review and Meta-Analysis
+“[N]ot all types of digital media use had adverse consequences on adolescents' mental health. In particular, one-to-one communication, self-disclosure in the context of mutual online friendship, as well as positive and funny online experiences mitigated feelings of loneliness and stress.”
+“awareness of the detrimental effects of addictive digital media use should be raised: …such as social comparison, fear of missing out, and exposure to negative contents…”
+
+From: How Social Media Affects Mental Health Positively
 Connection and Support
 Facilitating Social Connections: 
 revolutionize connecting with friends and family -> reduce isolation/loneliness, + offer a lifeline for those struggling to engage in traditional social settings. 
 combat feelings of isolation and loneliness, ultimately improving mental health.
-Virtual Support Networks: virtual support networks for mental health, anxiety, depression, and other challenges provide a safe environment for users to share experiences, offer advice, and seek solace, reducing alienation and promoting a sense of belonging.
-https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2021.793868/full
+Virtual Support Networks: 
+Virtual support networks for mental health, anxiety, depression, and other challenges provide a safe environment for users to share experiences, offer advice, and seek solace, reducing alienation and promoting a sense of belonging.
+Allowing for more accurate representation of the self:
+Ex: Expression of sexuality, gender, religion, or other views that may otherwise be not accepted by others in their physical community.
+Mental Health Awareness
+Campaigns for Mental Health Awareness: 
+Via organizations, influencers, and activists campaigns have been launched on  various platforms to educate the public and share resources 
+Promotes understanding and empathy.
+Reducing Stigma and Promoting Conversations: 
+By allowing users to openly share their journeys and by highlighting that seeking support is a sign of strength, not weakness, social media has become a battleground to challenge the stigma surrounding mental health issues.
+Fosters a culture of compassion and support.
+Anonymity can make it easier for some individuals to share their struggles openly.
+Counterpoint: Social media information may be inaccurate, causing misinformation and inappropriate advice, and relying on unqualified sources can be dangerous and worsen mental health issues. -> How can users of social media find accurate information more easily?
+Possible arguments against social media: 
+Comparison and Self-Esteem, Cyberbullying and Harassment, Sleep Disruptions, Correlation Between Excessive Social Media Use and Anxiety, Eating Disorders, Body Dysmorphia, Depression. → (skill issue?)
+Mindful Usage: limit screen time and avoid emotional triggers that may arise from comparing oneself to others.
+Diverse Content: Curate social media feeds to include diverse and body-positive content. Unfollow accounts that promote unrealistic beauty standards or toxic diet culture.
+Seek Support: Reach out to friends, family, or mental health professionals if you notice any adverse effects of social media on your mental health. Don’t hesitate to seek help and support.
+Confidentiality and Privacy Concerns: While anonymity can offer a degree of protection, it is essential to remember that anything shared on social media may not be entirely private. Users should exercise caution when revealing sensitive information online.
 
-In-Betweeners:
+
 https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-023-01243-x
 “However, findings also suggest that the quality rather than the quantity of social media use can determine whether the experience will enhance or deteriorate the user’s mental health [4].”
 
 Against:
 
-
+ Sources
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183915/
+https://www.yalemedicine.org/news/social-media-teen-mental-health-a-parents-guide
+https://www.hhs.gov/about/news/2023/05/23/surgeon-general-issues-new-advisory-about-effects-social-media-use-has-youth-mental-health.html
+http://www.jstor.org/stable/43776180
+http://www.jstor.org/stable/41488598
+https://www.jstor.org/stable/44001127
+https://www.jstor.org/stable/44078245
+https://www.jstor.org/stable/43186880
+https://www.jstor.org/stable/23721317
+https://www.jstor.org/stable/10.5406/amerjpsyc.129.1.0081
+https://www.jstor.org/stable/resrep61694.6
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10111082/
+https://www.jstor.org/stable/resrep61694.5
+https://www.jstor.org/stable/resrep27861?searchText=((social%20media)%20AND%20(mental%20health))&searchUri=%2Faction%2FdoAdvancedSearch%3Far%3Don%26rr%3Don%26q0%3Dsocial%2Bmedia%26q1%3Dmental%2Bhealth%26f0%3Dall%26c1%3DAND%26f1%3Dall%26acc%3Don%26so%3Drel%26pagemark%3DeyJwYWdlIjoyLCJzdGFydCI6MjUsInRvdGFsIjo4MzI5NH0%253D%26groupefq%3DWyJzZWFyY2hfYXJ0aWNsZSIsInJldmlldyIsInNlYXJjaF9jaGFwdGVyIiwiY29udHJpYnV0ZWRfdmlkZW8iLCJjb250cmlidXRlZF9hdWRpbyIsInJlc2VhcmNoX3JlcG9ydCIsIm1wX3Jlc2VhcmNoX3JlcG9ydF9wYXJ0IiwiY29udHJpYnV0ZWRfdGV4dCJd&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A3f0dcae915d01406138bf47830e85c97
+https://www.jstor.org/stable/resrep51340
+https://www.jstor.org/stable/48766104
+https://www.jstor.org/stable/43940346
+https://www.jstor.org/stable/40648536
+https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en
+Political Extremism
+https://onlinewilder.vcu.edu/blog/political-extremism/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9606324/
+https://www.splcenter.org/fighting-hate/extremist-files/group/united-constitutional-patriots
+The Entirety of the Southern Poverty Law Center
+http://www.jstor.org/stable/26463917
+https://home-affairs.ec.europa.eu/system/files/2023-11/RAN-online-radicalisation_en.pdf
+https://citap.pubpub.org/pub/jq7l6jny/release/1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8853081/
+https://nij.ojp.gov/topics/articles/five-things-about-role-internet-and-social-media-domestic-radicalization
+Misinfo
+https://royalsociety.org/blog/2022/01/how-to-regulate-misinformation/
+https://www.adl.org/resources/backgrounder/active-club-network
+Regulation
+https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en
 
